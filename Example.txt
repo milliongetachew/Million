@@ -1,0 +1,7 @@
+this is Example file
+
+
+
+The list is usually larger than the Command Prompt window,so you may need to scroll up to find the command you want.
+The list varies slightly depending on which Windows version you are using,as commands are occasionally added or removed.
+A short description of the command will be displayed next to each entry.
